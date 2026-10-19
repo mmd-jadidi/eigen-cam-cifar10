@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints & export duplicates
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Datasets
+data/
+*.tar.gz
+
+# Archive and course submission files
+*.zip
+paper-*.pdf
+Persentation.pdf
+eigen_cam_demo.html
+eigen_cam_demo.pdf
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
